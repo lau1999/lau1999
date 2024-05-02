@@ -38,7 +38,5 @@
         <li>Disfruto de la lectura de libros de ciencia ficción y tecnología.</li>
     </ul>
 
-  <img src="https://example.com/developer-java.jpg" alt="Developer Java" style="width: 400px;">
-
 </body>
 </html>
