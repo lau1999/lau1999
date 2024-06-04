@@ -10,7 +10,7 @@
    <h1>¡Hola, soy <span style="color: #007acc;">@lau1999</span>! 👋</h1>
 
   <h2>Acerca de mí</h2>
-  <p>Soy un apasionado desarrollador Java con más de 5 años de experiencia en el desarrollo de aplicaciones web y empresariales.</p>
+  <p>Soy un apasionado desarrollador Java  en el desarrollo de aplicaciones web y empresariales.</p>
 
   <h2>Intereses</h2>
    <ul>
