@@ -34,7 +34,7 @@
 
   <h2>Datos curiosos</h2>
     <ul>
-        <li>Soy un músico aficionado y toco la guitarra en mi tiempo libre.</li>
+        <li>Toco la guitarra en mi tiempo libre.</li>
         <li>Disfruto de la lectura de libros de ciencia ficción y tecnología.</li>
     </ul>
 
