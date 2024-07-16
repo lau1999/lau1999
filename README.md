@@ -4,15 +4,15 @@
 Soy un apasionado desarrollador Java especializado en el desarrollo de aplicaciones web.
 
 ## Intereses
-- Desarrollo de software
-- Innovación tecnológica
-- Explorar nuevas tecnologías
+- 💻 Desarrollo de software
+- 🚀 Innovación tecnológica
+- 🌐 Explorar nuevas tecnologías
 
 ## Aprendiendo actualmente
-- Microservicios con Spring Boot
-- Desarrollo web con Angular
-- Mejores prácticas de seguridad en Java
-- Patrones de Diseño: DAO (Data Access Object), DTO (Data Transfer Object)
+- 🚀 Microservicios con Spring Boot
+- 🅰️ Desarrollo web con Angular
+- 🔒 Mejores prácticas de seguridad en Java
+- 🔄 Patrones de Diseño: DAO (Data Access Object), DTO (Data Transfer Object)
 
 ## Herramientas y Entornos de Desarrollo
 - 🌟 [Eclipse](https://www.eclipse.org/)
