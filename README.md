@@ -1,42 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-</head>
-<body>
+# ¡Hola, soy Laureano! 👋
 
-   <h1>¡Hola, soy <span style="color: #007acc;">@lau1999</span>! 👋</h1>
+## Acerca de mí
+Soy un apasionado desarrollador Java especializado en el desarrollo de aplicaciones web.
 
-  <h2>Acerca de mí</h2>
-  <p>Soy un apasionado desarrollador Java  en el desarrollo de aplicaciones web y empresariales.</p>
+## Intereses
+- Desarrollo de software
+- Innovación tecnológica
+- Explorar nuevas tecnologías
 
-  <h2>Intereses</h2>
-   <ul>
-        <li>Desarrollo de software</li>
-        <li>Innovación tecnológica</li>
-        <li>Explorar nuevas tecnologías</li>
-    </ul>
+## Aprendiendo actualmente
+- Microservicios con Spring Boot
+- Desarrollo web con Angular
+- Mejores prácticas de seguridad en Java
+- Patrones de Diseño: DAO (Data Access Object), DTO (Data Transfer Object)
 
-   <h2>Aprendiendo actualmente</h2>
-    <ul>
-        <li>Microservicios con Spring Boot</li>
-        <li>Desarrollo web con Angular y React</li>
-        <li>Mejores prácticas de seguridad en Java</li>
-    </ul>
+## Herramientas y Entornos de Desarrollo
+- 🌟 [Eclipse](https://www.eclipse.org/)
+- 🌟 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- 🌟 [Visual Studio](https://visualstudio.microsoft.com/)
 
-  <h2>Colaboración</h2>
-  <p>Estoy abierto a colaborar en proyectos emocionantes donde pueda aportar mis habilidades y conocimientos en Java y desarrollo de software en general.</p>
+## Bases de Datos
+- 🛢️ MySQL
+- 🛢️ Oracle
+- 🛢️ PostgreSQL
 
-  <h2>Cómo contactarme</h2>
-    <p>Puedes encontrarme en GitHub como <a href="https://github.com/lau1999" target="_blank">@lau1999</a>. También puedes contactarme por correo electrónico en <a href="mailto:correo@example.com">Laug0541@gmail.com</a>.</p>
+## Lenguajes
+- ☕ Java
+- 📜 JavaScript, TypeScript
 
-  <h2>Datos curiosos</h2>
-    <ul>
-        <li>Toco la guitarra en mi tiempo libre.</li>
-        <li>Disfruto de la lectura de libros de ciencia ficción y tecnología.</li>
-    </ul>
+## Colaboración
+Estoy abierto a colaborar en proyectos emocionantes donde pueda aportar mis habilidades y conocimientos en Java y desarrollo de software en general.
 
-</body>
-</html>
+## Cómo contactarme
+Puedes contactarme por correo electrónico en Laug0541@gmail.com.
+
+## Datos curiosos
+- 📚 Disfruto de la lectura de libros de ciencia ficción y tecnología.
