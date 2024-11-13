@@ -1,7 +1,7 @@
 # ¡Hola, soy Laureano! 👋
 
 ## Acerca de mí
-Soy un apasionado desarrollador Java especializado en el desarrollo de aplicaciones web.
+Soy un desarrollador Java en el desarrollo de aplicaciones web.
 
 ## Intereses
 - 💻 Desarrollo de software
